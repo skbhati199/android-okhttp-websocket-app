@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/FluperProject/WorkMangerWebSocket/app/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/FluperProject/WorkMangerWebSocket/app/src/main/res/layout/activity_work_manager_download.xml" value="0.35" />
+        <entry key="..\:/FluperProject/WorkMangerWebSocket/app/src/main/res/layout/laouter_progress.xml" value="0.6" />
       </map>
     </option>
   </component>
